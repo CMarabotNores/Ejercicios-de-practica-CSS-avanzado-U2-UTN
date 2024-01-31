@@ -1,0 +1,42 @@
+/* posicionamientos */
+
+.contenedor {
+    height: 1000px;
+    width: 700px;
+}
+
+/* posicionamiento estatico */
+.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: static;
+}
+
+/* posicionamiento relativo */
+/*.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    top: 50px;
+}*/
+
+/* posicionamiento absoluto */
+/*.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+}*/
+
+/* posicionamiento fijo */
+/*.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+}*/

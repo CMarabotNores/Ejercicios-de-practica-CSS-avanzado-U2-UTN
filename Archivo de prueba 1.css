@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+}
+
+/* pseudo-clases */
+h1:hover {
+    color: brown;
+}
+
+h2:nth-child(odd) {
+    color: aqua;
+}
+
+/* pseudo-elementos */
+p::first-line{
+    font-style: oblique;
+}
+
+h1::before {
+    content: "🎃";
+}
+
